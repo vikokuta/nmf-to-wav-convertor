@@ -1,2 +1,2 @@
 # nmf-to-wav-convertor
-python
+Aplicação em Python que converte áudios nmf para wav
